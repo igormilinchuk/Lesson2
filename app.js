@@ -7,9 +7,7 @@ let number = 190;
 
 console.table({ boolean, string, nul, underf, number });
 
-let information = 0;
-
-mydate(information);
+mydate();
 
 function mydate() {
     let nickname = "Milinchuk";
